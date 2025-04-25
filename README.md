@@ -1,9 +1,9 @@
 <h1 align="center" id="Theoden-bernard-title">Hi 👋, I'm Théoden</h1>
-<h3 align="left">A passionate to new technology and developer from France</h3>
+<h3 align="left">A passionate developer from France with a keen interest in new technologies</h3>
 
 - 🔭 I’m currently working on Elixir [exercism_elixir](https://github.com/Theoden-bernard/exercism_elixir)
 
-- 👨‍💻 All of my projects are available at [GuitHub](https://github.com/Theoden-bernard)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Theoden-bernard)
 
 - 📫 How to reach me **theodenbernard1203@gmail.com**
 
