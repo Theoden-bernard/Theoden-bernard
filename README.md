@@ -35,7 +35,7 @@
         <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
         </a>
-        <br>Elixir
+        <br>Ruby
       </td>
       <td align="center" width="96">
         <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> 
